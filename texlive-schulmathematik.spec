@@ -1,5 +1,5 @@
 Name:		texlive-schulmathematik
-Version:	67426
+Version:	69244
 Release:	1
 Summary:	Commands and document classes for German-speaking teachers of mathematics and physics
 Group:		Publishing
