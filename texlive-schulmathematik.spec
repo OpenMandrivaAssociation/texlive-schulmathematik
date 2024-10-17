@@ -3,7 +3,7 @@ Version:	69244
 Release:	1
 Summary:	Commands and document classes for German-speaking teachers of mathematics and physics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/schulmathematik
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/schulmathematik
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schulmathematik.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schulmathematik.doc.r%{version}.tar.xz
